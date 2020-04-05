@@ -2,7 +2,7 @@
 
   <id>org.example.TimePlugin</id>
 
-  <name>SDK: Tool Window Sample Project</name>
+  <name>TimePlugin</name>
 
   <depends>com.intellij.modules.platform</depends>
 
